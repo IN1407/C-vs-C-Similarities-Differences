@@ -7,7 +7,7 @@ For a detailed breakdown of both languages, visit the hosted website:
 https://in1407.github.io/C-vs-Cpp-Similarities---Differences/
 OR
 https://cvscpp-similarities-and-differences.netlify.app/
-Note: both are the same website
+Note: both are the same website.
 Features:
 Clear comparison of C and C++
 
